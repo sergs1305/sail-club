@@ -8,6 +8,15 @@ body {
     background-color: #FDFDFF;
 }
 
+a {
+    color: #163152;
+    text-decoration: none;
+}
+
+a:hover {
+   color: #00C6BD
+}
+
 h1 {
     font-weight: 400;
     font-style: italic;
@@ -36,6 +45,10 @@ h2 {
 
 .contact-item-title {
     font-weight: 700;
+}
+
+.contact-item address {
+    font-style: normal;
 }
 
 .policy, .copyright {
